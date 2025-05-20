@@ -14,6 +14,7 @@
 
 ❖ Browse the Learning Mate System in a browser. i.e. http://localhost/Learning_Mate/Landing%20Page/Landing_Page.php to proceed to the Landing Page regardless if you are a user or an admin.
 
+
 🔑 **For Default Credentials**
 
 ➢ User
